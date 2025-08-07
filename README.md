@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihret Tesfaye</h1>
 <h3 align="center">Breaking into Cybersecurity, One Exploit at a Time</h3>
-
-- 🔭 I’m currently working on [TryHackMe Labs & Hack The Box Challenges](https://tryhackme.com/p/MihretTesfaye01)
-
-- 🌱 I’m currently learning **Network security, Web App Hacking, Linux Privilege Escalation, Python scripting**
-
-- 👯 I’m looking to collaborate on **Beginner CTF teams or security research**
-
-- 💬 Ask me about **Kali Linux, Burp Suite, Nmap, Metasploit, basic reverse engineering**
-
-- 📫 How to reach me **mehtesfaye@gmail.com**
+📫 How to reach me **mehtesfaye@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
